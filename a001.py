@@ -1,0 +1,5 @@
+print("this is the test")
+print("The quick brown fox "," jumps over",'the lazy dog')
+print("100 + 200 =",100+200)
+name=input("Please input your name:")
+print("Hello ,Your name is : " ,name)
